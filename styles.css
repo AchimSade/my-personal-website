@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family: Comforter;
+  font-family: Fredoka;
   background-image: url("https://images.unsplash.com/photo-1541323421480-68513be3d209?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
   background-position: center;
   background-size: cover;
@@ -24,17 +24,20 @@ header {
 }
 h1 {
   padding: 10px;
-  font-size: 64px;
+  font-size: 32px;
 }
 
 .navigation {
   display: flex;
   justify-content: space-around;
-  font-size: 48px;
+  font-size: 24px;
 }
 
 .images {
   width: 60%;
   height: auto;
   border-radius: 10px;
+}
+section {
+  margin: 50px 20px 50px 20px;
 }
