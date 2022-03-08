@@ -9,8 +9,8 @@ body {
   background-size: cover;
   display: flex;
   flex-direction: column;
-  text-align: center;
   justify-content: space-between;
+  text-align: center;
 }
 
 div {
@@ -40,4 +40,7 @@ h1 {
 }
 section {
   margin: 50px 20px 50px 20px;
+}
+li {
+  text-align: left;
 }
